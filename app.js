@@ -1,4 +1,4 @@
-var gulp = require("gulp");
+/* var gulp = require("gulp");
 var babel = require("gulp-babel");
 
 gulp.task("default", function () {
@@ -6,6 +6,7 @@ gulp.task("default", function () {
     .pipe(babel())
     .pipe(gulp.dest("dist"));
 });
+*/
 
 function hello() {
     document.write("Hello KRKdev")
